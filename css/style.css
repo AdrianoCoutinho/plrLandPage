@@ -1,0 +1,45 @@
+.header-title {
+  background-color: #ff9800;
+}
+
+.main {
+  background-image: url("/images/diet-3117938.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.backgroundDiv {
+  color: aliceblue;
+  background-color: #33333356;
+}
+
+.orange-bg {
+  background-color: #4d2e0081;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.buy-btn {
+  background-color: orange;
+  border: none;
+  color: white;
+  padding: 30px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 20px 0;
+  cursor: pointer;
+  border-radius: 50px;
+  font-weight: bold;
+}
+
+.buy-btn:hover {
+  background-color: #fcb448;
+  color: red;
+}
+
+.stroke-text {
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #000;
+  background-color: #000000c5;
+}
